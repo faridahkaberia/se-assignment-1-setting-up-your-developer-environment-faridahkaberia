@@ -1,0 +1,4 @@
+https://docs.google.com/document/d/1k4lvM69-OI2-PHqbVYJjnA2hiXG0U8DwuakY_Sg9lxI/edit
+https://github.com/faridahkaberia/sampleproject.git
+There were no major challenges experienced during setup the few minor errors i experienced I consulted ChatGPT AI which helped alot. 
+Another minor challenge is when seraching for -- version on command prompt it would bring no such file. This was rectified by manually adding to PATH on the environmental variables.
